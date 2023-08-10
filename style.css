@@ -71,6 +71,7 @@ img {
 
 .custom ::placeholder {
     color: var(--Very-dark-cyan);
+    font-size: 1rem;
 }
 
 .left__side p{
